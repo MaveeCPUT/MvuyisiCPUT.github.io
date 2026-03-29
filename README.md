@@ -1,6 +1,6 @@
 # Mvuyisi Mcithwa
 
-060 679 5254 | mvuysilindo@gmail.com | https://github.com/wil-it-2026/cv-submission-MaveeCPUT
+060 679 5254 | mvuysilindo@gmail.com | [https://github.com/wil-it-2026/cv-submission-MaveeCPUT](https://github.com/wil-it-2026/cv-submission-MaveeCPUT)
 
 <hr style="border: 8px solid black; margin: 15px 0;">
 
@@ -8,7 +8,7 @@
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 20px;">
 
-  
+  <!-- Left column (empty for now, you can add more info later) -->
   <div style="flex: 1;">
   </div>
 
