@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mvuyisi Mcithwa
+# I'm Mvuyisi Mcithwa
 
 📞 060 679 5254  
 📧 mvuyisilindo@gmail.com  
