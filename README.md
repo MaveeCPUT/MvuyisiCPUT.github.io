@@ -1,18 +1,20 @@
 
 <table style="width:100%; border:none;">
-<tr>
-<td style="width:40%; padding-right:40px; vertical-align:top;">
-**Mvuyisi Mcithwa**
-
-060 679 5254 | mvuysilindo@gmail.com | [https://github.com/wil-it-2026/cv-submission-MaveeCPUT](https://github.com/wil-it-2026/cv-submission-MaveeCPUT)
-
-<hr style="border: 8px solid black; margin: 20px 0;">
-
-**Software Developer**
-
-</td>
-<td style="width:60%; vertical-align:top;">
-I'm interested in building practical software to solve real world problems, when I'm thinking or generating ideas on how to solve a particular problem and acting on those ideas is what fuels my productivity and creativity.
-</td>
-</tr>
+  <tr>
+    <td style="width:40%; padding-right:40px; vertical-align:top;">
+      
+      <h1 style="margin: 0 0 10px 0;">Mvuyisi Mcithwa</h1>
+      
+      060 679 5254 | mvuysilindo@gmail.com | [https://github.com/wil-it-2026/cv-submission-MaveeCPUT](https://github.com/wil-it-2026/cv-submission-MaveeCPUT)
+      
+      <hr style="border: 8px solid black; margin: 20px 0;">
+      
+      <strong>Software Developer</strong>
+      
+    </td>
+    
+    <td style="width:60%; vertical-align:top;">
+      I'm interested in building practical software to solve real world problems, when I'm thinking or generating ideas on how to solve a particular problem and acting on those ideas is what fuels my productivity and creativity.
+    </td>
+  </tr>
 </table>
