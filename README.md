@@ -68,5 +68,4 @@ Generating ideas and turning them into working systems fuels my creativity and p
 Principal  
 📞 011 680 2453
 
-<video width="600" controls src="mock-interview-video.mp4">
-</video>
+🎥 [Watch Mock Interview](./mock-interview-video.mp4)
