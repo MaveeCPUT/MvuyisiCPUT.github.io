@@ -68,7 +68,4 @@ Generating ideas and turning them into working systems fuels my creativity and p
 Principal  
 📞 011 680 2453
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/wil-it-2026/cv-submission-MaveeCPUT/main/mock-interview-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+src="Mock%20interview%20video.mp4"
