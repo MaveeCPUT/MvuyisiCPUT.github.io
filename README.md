@@ -67,3 +67,6 @@ Generating ideas and turning them into working systems fuels my creativity and p
 **Mr. S.W Meyers**  
 Principal  
 📞 011 680 2453
+
+<video width="600" controls src="Mock interview video(1).mp4">
+</video>
