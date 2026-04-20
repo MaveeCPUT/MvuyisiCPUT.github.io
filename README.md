@@ -69,4 +69,9 @@ Principal
 📞 011 680 2453
 
 🎥 [Watch Mock Interview](./mock-interview-video.mp4)
-[Reflection](./pfp-reflection,docx)
+
+### 📄 Reflection
+
+**[Download / View My PFP Reflection](./pfp-reflection.docx)**
+
+*(Microsoft Word document - Reflection on my Personal/Professional Development)*
