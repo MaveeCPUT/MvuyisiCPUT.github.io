@@ -73,5 +73,3 @@ Principal
 ### 📄 Reflection
 
 **[Download / View My PFP Reflection](./pfp-reflection.docx)**
-
-*(Microsoft Word document - Reflection on my Personal/Professional Development)*
