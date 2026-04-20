@@ -71,5 +71,4 @@ Principal
 🎥 [Watch Mock Interview](./mock-interview-video.mp4)
 
 ### 📄 Reflection
-
-**[Download / View My PFP Reflection](./pfp-reflection.docx)**
+👉 **[View My Reflection](./pfp-reflection.pdf)**
